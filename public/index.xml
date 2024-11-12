@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mi Sitio Hugo</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Mi Sitio Hugo</description>
+    <generator>Hugo -- 0.138.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Nov 2024 16:49:10 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi Pagina</title>
+      <link>http://localhost:1313/mi-pagina/</link>
+      <pubDate>Mon, 11 Nov 2024 16:49:10 +0100</pubDate>
+      <guid>http://localhost:1313/mi-pagina/</guid>
+      <description>&lt;h1 id=&#34;hola-soy-yeray&#34;&gt;Hola, soy Yeray&lt;/h1&gt;
+&lt;p&gt;Este proyecto esta creado para el trabajo de programacion enfocado en servidor&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
