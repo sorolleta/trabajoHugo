@@ -22,4 +22,4 @@ Brockhampton es un colectivo musical que ha influido mucho en mi vida. Su estilo
 
 ---
 
-Gracias por visitar mi página. ¡Espero que disfrutes las imágenes!
+Gracias por visitar mi pagina. ¡Espero que disfrutes las imágenes!
