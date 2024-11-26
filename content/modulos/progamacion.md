@@ -5,7 +5,7 @@ date: 2024-11-26
 
 # Introducción a Java
 
-Java es uno de los lenguajes de programación más populares y usados en todo el mundo. Es un lenguaje que se utiliza tanto para aplicaciones de escritorio como para aplicaciones web, móviles y hasta juegos. Una de las características más destacadas de Java es que **es multiplataforma**, es decir, el mismo código puede ejecutarse en diferentes sistemas operativos sin modificarlo.
+Java es uno de los lenguajes de programacion más populares y usados en todo el mundo. Es un lenguaje que se utiliza tanto para aplicaciones de escritorio como para aplicaciones web, móviles y hasta juegos. Una de las características más destacadas de Java es que **es multiplataforma**, es decir, el mismo código puede ejecutarse en diferentes sistemas operativos sin modificarlo.
 
 ## ¿Qué es Java?
 
